@@ -1,0 +1,16 @@
+Manesha
+CS
+4
+COLL_count:2
+MajorReq_count:70
+FYS_count:1
+IS_count:1
+QR_count:1
+EI_count:1
+credits_count:140
+CORE_count:4
+DAD_count:1
+STS_count:1
+ADT_count:1
+CEA_count:1
+course_count:35
